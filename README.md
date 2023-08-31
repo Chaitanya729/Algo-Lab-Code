@@ -1,2 +1,2 @@
 # Algo-Lab-Code
-Code for my Algorithm Lab assignments
+Code for my Algorithm Lab assignments.
